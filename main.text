@@ -1,0 +1,59 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{enumerate}
+
+\title{CM0246 Estructuras Discretas\\
+Tercer Parcial (20\%)}
+\author{Clase 5399\\
+Juan G. Lalinde-Pulido\\
+\bigskip
+Juan Andrés Young Hoyos\\
+ID: 1105463097}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Instrucciones}
+Responda las siguientes preguntas. Puede agregar imágenes para cada una de las preguntas.
+
+\section*{Pregunta 1}
+\begin{enumerate}[]
+    \item Descripción de la pregunta 1.
+    \item \includegraphics[width=\linewidth]{1.png}
+\end{enumerate}
+
+\newpage
+\section*{Pregunta 2}
+\begin{enumerate}[]
+    \item Descripción de la pregunta 2.
+    \item \includegraphics[width=\linewidth]{2.png}
+\end{enumerate}
+
+\section*{Pregunta 3}
+\begin{enumerate}[]
+    \item Descripción de la pregunta 3.
+    \item \includegraphics[width=\linewidth]{3.png}
+\end{enumerate}
+
+\section*{Pregunta 4}
+\begin{enumerate}[]
+    \item Descripción de la pregunta 4.
+    \item \includegraphics[width=\linewidth]{4.png}
+\end{enumerate}
+\section*{Pregunta 5}
+\begin{enumerate}[]
+    \item Descripción de la pregunta 5.
+    \item \includegraphics[width=\linewidth]{5.png}
+\end{enumerate}
+
+\section*{Pregunta 6}
+\begin{enumerate}[]
+    \item Descripción de la pregunta 6.
+    \item \includegraphics[width=\linewidth]{6.png}
+\end{enumerate}
+
+\end{document}
